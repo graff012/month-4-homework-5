@@ -1,0 +1,30 @@
+Test 1: A) 2010
+Test 2: C) Microsoft
+Test 3: A) .ts
+Test 4: C) Belgilangan uzunlikdagi va har bir pozitsiyada ma'lum tipdagi elementlar massivi
+Test 5: D) Interfeys bir necha bor e'lon qilinishi va birlashtirishi mumkin, tip esa faqat bir marta e'lon qilinadi
+Test 6: A) Tipdagi barcha ma'lumotlarni qabul qila oladi
+Test 7: B) `unknown` tipidagi o'zgaruvchiga har qanday qiymat bog'lash mumkin, lekin uni ishlatishdan oldin tip tekshiruvi kerak
+Test 8: A) Qiymat aslo qaytarmaydigan funksiyalarga (exception, infinite loop)
+Test 9: C) Ko'p tiplar bilan ishlaydigan komponentlar yaratishda
+Test 10: C) Kalitlari oldindan noma'lum bo'lgan obyektlarni ifodalash uchun
+Test 11: B) Obyektning kalitlaridan iborat union tipni qaytaradi
+Test 12: A) Union bir nechta tiplardan birini, Intersection barcha tiplarning kombinatsiyasini bildiradi
+Test 13: A) Compile vaqtida tekshiriladi va JavaScript kodiga transpile qilinadi
+Test 14: B) O'zgaruvchi qiymati aniq bir yoki bir nechta qiymatlar bo'lishini ta'minlash uchun
+Test 15: B) Classlar, methodlar, propertylar va parametrlarni kengaytirish uchun
+Test 16: A) Bir nechta alohida e'lon qilingan interfacelarni birlashtirish
+Test 17: C) Null yoki undefined bo'lishi mumkin bo'lgan obyekt xususiyatlarining xususiyatlariga xavfsiz kirish uchun
+Test 18: A) Null va undefined qiymatlarni tekshirish va defaultni qaytarish, boshqa falsy qiymatlarni emas
+Test 19: A) Conditional tiplar ichida, tip parametrlarini chiqarib olish uchun
+Test 20: A) `implements` faqat interfaceni qo'llash uchun, `extends` esa class yoki interfacelarni kengaytirish uchun
+Test 21: C) Xususiyatga yangi qiymat berish imkonini yo'q qilish uchun
+Test 22: B) Null va undefined qiymatlar xususiyatlarga kirolmasligini ta'minlaydi
+Test 23: C) Kompilyatorga qiymat null yoki undefined emasligini ishontiradi
+Test 24: A) Uni faqat class ichida va voris classlaridan turib kirish mumkin
+Test 25: A) Dekoratorlar
+Test 26: B) T tipidan K nomli barcha xususiyatlarni olish
+Test 27: A) JavaScript'da `typeof` runtime'da, TypeScript'da compile vaqtida ishlaydi
+Test 28: B) T tipli funksiyaning qaytish qiymatining tipini olish
+Test 29: C) Common maydon orqali turli tiplarni aniq farqlash imkonini beruvchi pattern
+Test 30: C) Standart import/export, namespace import, default import, side effect import
